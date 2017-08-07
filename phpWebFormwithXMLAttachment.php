@@ -146,7 +146,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 		
 		/* Email Detials */
 		
-			$mail_to   = "me@myemailaddress.com"; /* ENTER YOUR INFO HERE */
+			$mail_to   = "partheevtube@gmail.com"; /* ENTER YOUR INFO HERE */
 			$from_mail = "webform@mywebsite.com"; /* ENTER YOUR INFO HERE */
 			$from_name = "PHP/XML Webform";       /* ENTER YOUR INFO HERE */
 			$reply_to  = "webform@mywebsite.com"; /* ENTER YOUR INFO HERE */
